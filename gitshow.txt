@@ -1,0 +1,2 @@
+git show {hash} --> mostra os detalhes de um commit específico
+*git show sem hash mostra o último commit(head);

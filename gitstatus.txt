@@ -1,0 +1,5 @@
+git status --> mostra o que há para ser adicionado no commit
+
+git diff --> mostra a diferênça entre o atual e o commit anterior
+
+git diff {primeiro hash}..{ultimo hash} --> mostra a diferença entre os commits (3 commits neste caso)

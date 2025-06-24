@@ -1,0 +1,11 @@
+git log --> mostra o log
+
+git log --oneline --> mostra apenas os títulos dos commits e os primeiros caracteres da hash
+
+git log -p --> mostra as alterações nas linhas (-) retirada (+) adicionada
+
+git log --graph --> cria uma espécie de gráfico para visualizar a linha do tempo dos commits
+
+git log --pretty ou -- format="%H %an" --> Mostra a hash e o autor
+
+git log --help --> Abre uma página com todos os comandos
